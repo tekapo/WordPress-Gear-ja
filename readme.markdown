@@ -1,10 +1,6 @@
-WordPress-Gear
+WordPress-Gear-日本語版
 ==============
 
-A bunch of gear for WP developers
+WP 開発用ツールの一覧の http://wycks.github.com/WordPress-Gear/ の日本語版。
 
-The actual page: http://wycks.github.com/WordPress-Gear/
-
-  
-I'm eventually converting this Jekyll to make it easier to manage, beta is over here
-https://github.com/wycks/wordpress-gears-jekyll
+実際のウェブページ: http://tekapo.github.com/WordPress-Gear-ja/
