@@ -1,0 +1,8 @@
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : Wordpress-Gears
+tagline: Stuff for WP Developers
+github : wycks
+twitter : https://twitter.com/wycks_s
+production_url : http://wycks.github.com/WordPress-Gear/
