@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### How
+### 方法
 
 WordPress-Gear is meant to be community driven, please feel free to jump in and add/remove any useful information via [GitHub](https://github.com/wycks/WordPress-Gear).
 
