@@ -10,35 +10,35 @@ WordPress-Gearはコミュニティによって運営されています。お気
 
 The easiest way to contribute is to have a GitHub account then click [index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md), then click edit. This will automatically fork this project to your account so you can make changes, then submit a pull request. There are additional instruction if you want to clone this locally in the readme.
 
-参加協力するもっとも簡単な方法は
+参加協力するもっとも簡単な方法は、GitHubアカウントを取得し、[index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md)をクリックし、editをクリックします。これにより、このプロジェクトを自分のアカウントに自動的にフォークするので、そこで変更したり、プルリクエストを送信したりできるようになります。
 
-
-### Contributors
+### 参加協力者の方へ
 
 Please refrain from submitting any commercial products or themes. Links
 must allow for code browsing (github/bitbucket/svn..etc).
 
+商用製品や商用テーマはどんなものでも追加しないでください。リンクはコードが閲覧できるようにしてください (github/bitbucket/svn..etc)。
 
 * * * * *
 
-Base Tools
+基本ツール
 ----------
 
 `WordPress`
 
-##### Compressed format (.zip or .tar.gz)
+##### 圧縮フォーマット (.zip もしくは .tar.gz)
 
--   [Latest Stable](http://wordpress.org/download/) - wordpress.org
--   [Nightly](http://wordpress.org/download/nightly/) - wordpress.org
+-   [最新安定版](http://wordpress.org/download/) - wordpress.org
+-   [ナイトリー(開発版)](http://wordpress.org/download/nightly/) - wordpress.org
 
-##### Revision control - These builds roll the latest commits.
+##### バージョン管理 - これらのビルドは最新のコミットを含んでいます。
 
 -   [SVN](http://core.svn.wordpress.org/) (Subversion)
 -   [GitHub](https://github.com/WordPress/WordPress) (Git)
 -   [BitBucket](https://bitbucket.org/Rarst/wordpress/overview) (Mercurial)
 
 
-`Unit tests`
+`ユニットテスト`
 
 ##### Unit Testing and profiling
 
