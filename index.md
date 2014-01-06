@@ -127,9 +127,9 @@ WordPress-Gearはコミュニティによって運営されています。お気
 -   [Developer](http://wordpress.org/plugins/developer/installation/) - すばやいセットアップ
 -   [Debug This](http://wordpress.org/plugins/debug-this/) - たくさんのデバッグモード
 -   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - たくさんの情報
--   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - Action and filter sequence
--   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
--   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
+-   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - アクションとフィルターのシーケンス
+-   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - 非推奨関数のログ
+-   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - 非常に怖いリライトを助ける
 -   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
 -   [BlackBox Debug Bar](http://wordpress.org/plugins/blackbox-debug-bar/) - Another debug bar
 -   [User Switching](http://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
