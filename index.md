@@ -4,18 +4,11 @@ layout: default
 
 ### 方法
 
-WordPress-Gear is meant to be community driven, please feel free to jump in and add/remove any useful information via [GitHub](https://github.com/wycks/WordPress-Gear). 
-
 WordPress-Gearはコミュニティによって運営されています。お気軽に飛び込んで、役に立つどんな情報でも[GitHub](https://github.com/wycks/WordPress-Gear)経由で追加/削除してください。
-
-The easiest way to contribute is to have a GitHub account then click [index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md), then click edit. This will automatically fork this project to your account so you can make changes, then submit a pull request. There are additional instruction if you want to clone this locally in the readme.
 
 参加協力するもっとも簡単な方法は、GitHubアカウントを取得し、[index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md)をクリックし、editをクリックします。これにより、このプロジェクトを自分のアカウントに自動的にフォークするので、そこで変更したり、プルリクエストを送信したりできるようになります。
 
 ### 参加協力者の方へ
-
-Please refrain from submitting any commercial products or themes. Links
-must allow for code browsing (github/bitbucket/svn..etc).
 
 商用製品や商用テーマはどんなものでも追加しないでください。リンクはコードが閲覧できるようにしてください (github/bitbucket/svn..etc)。
 
@@ -132,8 +125,8 @@ must allow for code browsing (github/bitbucket/svn..etc).
 -   [Core Control](http://wordpress.org/plugins/core-control/) - たくさんのコアオプション
 -   [Query Monitor](https://github.com/johnbillion/QueryMonitor) - たくさんのデバッグ項目をモニター
 -   [Developer](http://wordpress.org/plugins/developer/installation/) - すばやいセットアップ
--   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
--   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
+-   [Debug This](http://wordpress.org/plugins/debug-this/) - たくさんのデバッグモード
+-   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - たくさんの情報
 -   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - Action and filter sequence
 -   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - Log outdated functions
 -   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - Helps dreaded rewrites
