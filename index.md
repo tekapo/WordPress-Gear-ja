@@ -40,45 +40,45 @@ must allow for code browsing (github/bitbucket/svn..etc).
 
 `ユニットテスト`
 
-##### Unit Testing and profiling
+##### ユニットテストとプロファイリング
 
 -   [Trac SVN](http://unit-tests.svn.wordpress.org/trunk/)
 -   [GitHub mirror](https://github.com/kurtpayne/wordpress-unit-tests)
--   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - Guide to automated testing
--   [WP Mock](https://github.com/10up/wp_mock) - Unit tests using Mockery
--   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - Official sample data
--   [WP Test](http://wptest.io/) - Additional test/sample data
+-   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - 自動テストのガイド
+-   [WP Mock](https://github.com/10up/wp_mock) - Mockeryを使ったユニットテスト
+-   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - 公式のサンプルデータ
+-   [WP Test](http://wptest.io/) - 追加のテスト/サンプルデータ
 
 
-`Command line fu`
+`コマンドライン`
 
--   [WP-CLI](https://github.com/wp-cli/wp-cli) - The command-line tool for managing WordPress.
--   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - Windows powershell for the WP-CLI
--   [VimPress](https://github.com/pentie/VimRepress/) - Post to WordPress from Vim
--   [SublPress](https://github.com/dnstbr/sublpress)  - Post to WordPress in Sublime
--   [wp-composer](https://github.com/srtfisher/wp-composer) - Adds Composer dependency management to plugins/themes via WP-CLI.
+-   [WP-CLI](https://github.com/wp-cli/wp-cli) - WordPressを管理するためのコマンドラインツール
+-   [WP-PowerShell](https://github.com/ericmann/WP-PowerShell) - WP-CLI用のWindowsのPowerShell
+-   [VimPress](https://github.com/pentie/VimRepress/) - VimからWordPressに投稿
+-   [SublPress](https://github.com/dnstbr/sublpress)  - SublimeからWordPressに投稿
+-   [wp-composer](https://github.com/srtfisher/wp-composer) - WP-CLI経由でプラグイン/テーマの依存を管理するComposerを追加
 
-##### Build scripts
+##### ビルドスクリプト
 
--   [WP Stack](https://github.com/markjaquith/WP-Stack) - Capistrano deploy
--   [Capistrano-WP](https://github.com/crowdfavorite/gem-capistrano-wp) - Alternative Capistrano deploy
+-   [WP Stack](https://github.com/markjaquith/WP-Stack) - Capistranoでのデプロイ
+-   [Capistrano-WP](https://github.com/crowdfavorite/gem-capistrano-wp) - もう一つのCapistranoのデプロイ
 -   [Wordmove](https://github.com/welaika/wordmove) - Rails gem
--   [Wp Project Tools](https://github.com/newsapps/wp-project-tools) - Fabric/Python CLI and automation
--   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Php build script
--   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node, NPM and Ruby
+-   [Wp Project Tools](https://github.com/newsapps/wp-project-tools) - Fabric/Python CLI と自動化
+-   [WordPhing](https://github.com/wycks/WordPhing) - Phing/Phpビルドスクリプト
+-   [Yeoman-WordPress](https://github.com/romainberger/yeoman-wordpress) - Node、NPMとRuby
 -   [YeoPress](https://github.com/wesleytodd/YeoPress) - Yeoman
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
--   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - Installing/running WordPress on Heroku
--   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - Varying Vagrant Vagrants for WP
+-   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - HerokuでWordPressをインストル/稼働
+-   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - WordPress用のVagrant
 -   [Puppet WordPress](https://github.com/jonhadfield/puppet-wordpress) - Puppet
--   [Composerpress](https://github.com/Tarendai/composerpress) - Retroactively creates a composer.json for WP
--   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - Grunt to deploy a build directory to WordPress SVN
--   [Bedrock](https://github.com/roots/bedrock) - Gets you started with the best development tools,practices, and project structure
+-   [Composerpress](https://github.com/Tarendai/composerpress) - WP用のcomposer.jsonを遡及的に作成
+-   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - WordPress SVNへビルドディレクトリをデプロイするGrunt
+-   [Bedrock](https://github.com/roots/bedrock) - 最高の開発ツール、プラクティス、プロジェクト構造でスタートさせるモダンなWordPressスタック
 
 
-`IDE bundles`
+`IDE バンドル`
 
-##### WordPress snippets and auto-completions
+##### WordPress のスニペットや自動補完
 
 -   [Sublime Text 2](https://github.com/purplefish32/sublime-text-2-wordpress)
 -   [TextMate](https://github.com/Gipetto/wordpress.tmbundle)
@@ -88,50 +88,50 @@ must allow for code browsing (github/bitbucket/svn..etc).
 -   [Vim WordPress snippets](https://github.com/sudar/vim-wordpress-snippets)
 -   [NetBeans WordPress plugin](https://github.com/junichi11/netbeans-wordpress-plugin/)
 -   [Alfred v2 codex function reference](http://www.alfredforum.com/topic/2153-search-the-wordpress-function-reference/)
--   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex) - Search the WordPress Codex inside Sublime
+-   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex) - Sublime内でWordPressCodexを検索
 
 
-`Misc` 
+`その他`
 
--   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - Format PHP code so that it conforms to the WordPress Coding Standards
--   [Nginx](https://github.com/perusio/wordpress-nginx) - Configuration for running WordPress
--   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository
--   [WordPress Java](http://code.google.com/p/wordpress-java/) -  Java xmlrpc interface of WordPress
--   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) -  PHP CodeSniffer - enforce WordPress coding conventions
--   [WP.NET](http://wpdotnet.com/) - WordPress compiled to .NET, yes this exists.
+-   [WP-PhpTidy](https://github.com/scribu/wp-phptidy) - WordPressのコーディング基準に従うようにPHPコードを整形
+-   [Nginx](https://github.com/perusio/wordpress-nginx) - WordPressをNginxで動かすための設定
+-   [WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - WordPress Git リポジトリの基本レイアウト
+-   [WordPress Java](http://code.google.com/p/wordpress-java/) - WordPressのJava xmlrpcインターフェースとやりとりする
+-   [WordPress-Coding-Standards](https://github.com/x-team/WordPress-Coding-Standards) - PHP CodeSniffer - WordPressコーディング基準に順守させる
+-   [WP.NET](http://wpdotnet.com/) - .NETにコンパイルされたWordPress、そう、存在するんです。
 
 * * * * *
 
-Debug Tools
+デバッグツール
 -----------
 
-Plugins that help with debugging
+デバッグに役立つプラグイン
 
-##### Debug Bar and extensions
+##### デバッグバーと拡張機能
 
--   [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Maintained by core devs
--   [Debug Bar Actions and Filters Addon](http://wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - List of hooks( Actions + Filters )
--   [Debug Bar Action Hooks](http://wordpress.org/plugins/debug-bar-action-hooks/) - List fired hooks
--   [Debug Bar Console](http://wordpress.org/plugins/debug-bar-console/) - PHP/MySQL console to the debug bar
--   [Debug Bar Constants](http://wordpress.org/plugins/debug-bar-constants/) - List all WP and PHP constants
--   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - Display scheduled events
--   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Adds profiler and extra tools
--   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - Shows scripts/styles loaded for the current page & dependencies.
--   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - Lists the post meta data for the current post 
--   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - Detailed information about registered post types settings 
--   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - Lets you trace what plugins are causing database queries
--   [Debug Bar Screen Info](http://wordpress.org/plugins/debug-bar-screen-info/) - Shows screen info of the current admin page
--   [Debug Bar Shortcodes](http://wordpress.org/plugins/debug-bar-shortcodes/) - Shows the registered shortcodes, any available information about them and where they are used
--   [Debug Bar Super Globals](http://wordpress.org/plugins/debug-bar-super-globals/) - Displays Super Global valiables for the current request
--   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - Show which template files are loaded for a page
--   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - Transient info
--   [PMC Benchmark](http://wordpress.org/plugins/pmc-benchmark/) - Benchmarking plugin to profile slow hooks
+-   [Debug Bar](http://wordpress.org/plugins/debug-bar/) - コア開発チームによってメンテされてます
+-   [Debug Bar Actions and Filters Addon](http://wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - フックのリスト( Actions + Filters )
+-   [Debug Bar Action Hooks](http://wordpress.org/plugins/debug-bar-action-hooks/) - 稼働したフックのリスト
+-   [Debug Bar Console](http://wordpress.org/plugins/debug-bar-console/) - PHP/MySQL コンソール
+-   [Debug Bar Constants](http://wordpress.org/plugins/debug-bar-constants/) - WPとPHPのすべての定数リスト
+-   [Debug Bar Cron](http://wordpress.org/plugins/debug-bar-cron/) - スケジュールされているイベント
+-   [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - プロファイラーやその他ツールを追加
+-   [Debug Bar List Script & Style Dependencies](http://wordpress.org/plugins/debug-bar-list-dependencies/) - カレントページと依存している機能用に読み込まれたスクリプトやスタイルを表示
+-   [Debug Bar Post Meta](http://wordpress.org/plugins/tdd-debug-bar-post-meta/) - カレントポストのポストメタデータのリストを表示
+-   [Debug Bar Post Types](http://wordpress.org/plugins/debug-bar-post-types/) - 登録済みポストタイプの設定の詳細情報
+-   [Debug Bar Query Tracer](http://wordpress.org/plugins/debug-bar-query-tracer/) - どのプラグインがデータベースクエリーを発生させているのかをトレースする
+-   [Debug Bar Screen Info](http://wordpress.org/plugins/debug-bar-screen-info/) - カレント管理ページのスクリーン情報を表示する
+-   [Debug Bar Shortcodes](http://wordpress.org/plugins/debug-bar-shortcodes/) - 登録済みショートコードに関する利用可能な情報と使われている場所を表示する
+-   [Debug Bar Super Globals](http://wordpress.org/plugins/debug-bar-super-globals/) - カレントリクエストのスーパーグローバル変数を表示する
+-   [Debug Bar Template Trace](https://github.com/Clorith/wordpress-debug-bar-template-trace) - そのページでどのテンプレートファイルが読み込まれているのかを表示する
+-   [Debug Bar Transients](http://wordpress.org/plugins/debug-bar-transients/) - トランシエント情報
+-   [PMC Benchmark](http://wordpress.org/plugins/pmc-benchmark/) - 遅いフックをプロファイルするためのベンチマーキングプラグイン
 
-##### Debug plugins
+##### デバッグプラグイン
 
--   [Core Control](http://wordpress.org/plugins/core-control/) - Lots of core options
--   [Query Monitor](https://github.com/johnbillion/QueryMonitor) - Monitor lots of debugging things
--   [Developer](http://wordpress.org/plugins/developer/installation/) - Quickly get setup
+-   [Core Control](http://wordpress.org/plugins/core-control/) - たくさんのコアオプション
+-   [Query Monitor](https://github.com/johnbillion/QueryMonitor) - たくさんのデバッグ項目をモニター
+-   [Developer](http://wordpress.org/plugins/developer/installation/) - すばやいセットアップ
 -   [Debug This](http://wordpress.org/plugins/debug-this/) - Lot of debug modes
 -   [Debug Objects](http://wordpress.org/plugins/debug-objects/) - Lots of info
 -   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - Action and filter sequence
