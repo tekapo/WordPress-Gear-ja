@@ -130,47 +130,47 @@ WordPress-Gearはコミュニティによって運営されています。お気
 -   [Hook Sniffer](http://wordpress.org/plugins/wordpress-hook-sniffer/) - アクションとフィルターのシーケンス
 -   [Depreciated Notices](http://wordpress.org/plugins/log-deprecated-notices/) - 非推奨関数のログ
 -   [Rewrite Analyzer](http://wordpress.org/plugins/monkeyman-rewrite-analyzer/) - 非常に怖いリライトを助ける
--   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - Straightforward WordPress admin tool for inspecting your rewrite rules
--   [BlackBox Debug Bar](http://wordpress.org/plugins/blackbox-debug-bar/) - Another debug bar
--   [User Switching](http://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
--   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - Info about current screen, contextual hooks & its globals
--   [WpDevTool](http://wordpress.org/plugins/wpdevtool/) - Development tool for WP to track bugs, manage crons, permalinks, etc.
--   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - Pretty var_dumps -links to queryposts.com API
--   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - Lets you view and control what's happening in the WP-Cron system
--   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - WordPress wrapper for Kint debugging tool. Integrates with the Debug Bar is present.
+-   [Rewrite Rules Inspector](http://wordpress.org/plugins/rewrite-rules-inspector/) - リライトルールを調べるための分かりやすいWordPressの管理ツール
+-   [BlackBox Debug Bar](http://wordpress.org/plugins/blackbox-debug-bar/) - もう一つのデバッグバー
+-   [User Switching](http://wordpress.org/plugins/user-switching/) - WordPressのユーザーアカウントを簡単に切り替える
+-   [WCM Current Admin Info](https://github.com/wecodemore/current-admin-info) - カレント画面、関連フックとグローバル変数
+-   [WpDevTool](http://wordpress.org/plugins/wpdevtool/) -バグの追跡、cronの管理、パーマリンクなどなどの開発ツール
+-   [WP-Pretty Debug](https://github.com/wycks/WP-Pretty-Debug) - 整ったvar_dump - queryposts.com APIへのリンク
+-   [WP Crontrol](http://wordpress.org/plugins/crontrol/) - WP-Cronシステムで発生していることを閲覧し、コントロールする
+-   [Kint Debugger](http://wordpress.org/plugins/kint-debugger/) - Kintデバッギングツール用のWordPressのラッパー。デバッグバーとの統合。
 
-##### Profiling plugins
+##### プロファイリングプラグイン
 
--   [Time-Stack](https://github.com/joehoyle/Time-Stack) - WordPress profiling
--   [P3 (Plugin Performance Profiler)](http://wordpress.org/plugins/p3-profiler/) - Test your plugins
--   [XHProf Profiler](http://wordpress.org/plugins/wp-xhprof-profiler/) - Profile plugins and themes using XHProf (Facebook)
+-   [Time-Stack](https://github.com/joehoyle/Time-Stack) - WordPress プロファイリング
+-   [P3 (Plugin Performance Profiler)](http://wordpress.org/plugins/p3-profiler/) - プラグインをテスト
+-   [XHProf Profiler](http://wordpress.org/plugins/wp-xhprof-profiler/) - XHProf (Facebook) を使用しているプラグインとテーマをプロファイル
 
-##### SQL debug
+##### SQL デバッグ
 
 -   [MySQL Profiler](http://wordpress.org/plugins/mysql-profiler/)
 -   [SQL Monitor](http://wordpress.org/plugins/sqlmon/)
 
-##### Other
+##### その他
 
-- [Console Logger](https://github.com/MZAWeb/wp-log-in-browser) Log WP data to Chrome or Firefox
-- [Wp-Debug-Toggle](https://github.com/matthewsimo/wp-debug-toggle) -  Toggle wp_debug via CLI
+- [Console Logger](https://github.com/MZAWeb/wp-log-in-browser) ChromeもしくはFirefoxにWPデータをログ
+- [Wp-Debug-Toggle](https://github.com/matthewsimo/wp-debug-toggle) - CLI経由でwp_debugをオン/オフ
 
 * * * * *
 
-PHP Boilerplate
+PHPコードひな形
 ---------------
 
-`PHP bits`
+`PHP 関連`
 
-###### *Most of these are PHP classes*
+###### *ここにあるほとんどはPHPのクラスです*
 
-##### Framework stuff
+##### フレームワーク
 
--   [Fields Framework](http://wordpress.org/plugins/fields-framework/) -  A framework which can be used by developers to add fields to various areas of the administration panel either manually or using the Visual Builder.
--   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Organized, maintainable boilerplate for building plugins
--   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - WordPress plugins using object-oriented programming practices
--   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) - A framework for the WordPress settings API
--   [scbFramework](http://wordpress.org/plugins/scb-framework) - A set of useful classes for faster plugin development 
+-   [Fields Framework](http://wordpress.org/plugins/fields-framework/) -  管理パネルのさまざまなエリアに手動もしくはビジュアルビルダーでフィールドを追加するために開発者が利用できるフレームワーク。
+-   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - プラグインを作るための系統的でメンテナンス可能なひな形
+-   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - オブジェクト指向プログラミングプラクティスを使ったWordPressのプラグイン
+-   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) -  WordPress設定APIのためのフレームワーク
+-   [scbFramework](http://wordpress.org/plugins/scb-framework) - すばやくプラグインの開発を行うための便利なクラスのセット
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
