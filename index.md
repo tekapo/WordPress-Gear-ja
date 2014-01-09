@@ -63,6 +63,7 @@ WordPress-Gearはコミュニティによって運営されています。お気
 -   [Grunt-WP-Plugin](https://github.com/10up/grunt-wp-plugin) - Grunt (node)
 -   [Wordpress-Heroku](https://github.com/mhoofman/wordpress-heroku) - HerokuでWordPressをインストル/稼働
 -   [Varying Vagrant](https://github.com/10up/varying-vagrant-vagrants) - WordPress用のVagrant
+-   [VCCW](https://github.com/miya0001/vagrant-chef-centos-wordpress) - Vagrant + Chef + WordPress
 -   [Puppet WordPress](https://github.com/jonhadfield/puppet-wordpress) - Puppet
 -   [Composerpress](https://github.com/Tarendai/composerpress) - WP用のcomposer.jsonを遡及的に作成
 -   [Grunt-WP-Deploy](https://github.com/stephenharris/grunt-wp-deploy) - WordPress SVNへビルドディレクトリをデプロイするGrunt
@@ -164,86 +165,85 @@ PHPコードひな形
 
 ###### *ここにあるほとんどはPHPのクラスです*
 
-##### フレームワーク
+##### フレームワーク関連
 
 -   [Fields Framework](http://wordpress.org/plugins/fields-framework/) -  管理パネルのさまざまなエリアに手動もしくはビジュアルビルダーでフィールドを追加するために開発者が利用できるフレームワーク。
 -   [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - プラグインを作るための系統的でメンテナンス可能なひな形
 -   [Object Oriented Plugin Template](https://github.com/convissor/oop-plugin-template-solution) - オブジェクト指向プログラミングプラクティスを使ったWordPressのプラグイン
 -   [Settings Framework](https://github.com/gilbitron/WordPress-Settings-Framework) -  WordPress設定APIのためのフレームワーク
 -   [scbFramework](http://wordpress.org/plugins/scb-framework) - すばやくプラグインの開発を行うための便利なクラスのセット
--   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - Another WordPress settings API abstraction class 
--   [WP MVC](https://github.com/tombenner/wp-mvc) - MVC framework to create plugins
--   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - Base plugin for the WordPress system
--   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - Theme options framework
--   [Pods Framework](http://podsframework.org/) -  Expansive Framework  for custom content and fields
--   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOP plugin framework
--   [Option Tree](https://github.com/valendesigns/option-tree) - UI Builder, Theme Options, and Meta Boxes
--   [Vafpress](http://vafpress.com/vafpress-framework/) - Admin toolbox framework
--   [Piklist](http://piklist.com/) - Powerful framework with lots of options
--   [WPX](https://bitbucket.org/alkah3st/wp-extend) - Make it easier to use WordPress as a CMS
--   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  Helper stuff for Devs
+-   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - もう一つのWordPress設定APIの抽象クラス
+-   [WP MVC](https://github.com/tombenner/wp-mvc) - プラグイン作成のためのMVCフレームワーク
+-   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - WordPressシステムのためのベースプラグイン
+-   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - テーマオプションのフレームワーク
+-   [Pods Framework](http://podsframework.org/) -  カスタムコンテントとフィールド用の包括的なフレームワーク
+-   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOPプラグインフレームワーク
+-   [Option Tree](https://github.com/valendesigns/option-tree) - UIビルダー、テーマオプション、メタボックス
+-   [Vafpress](http://vafpress.com/vafpress-framework/) - 管理(画面?)ツールボックスのフレームワーク
+-   [Piklist](http://piklist.com/) - たくさんのオプションのある強力なフレームワーク
+-   [WPX](https://bitbucket.org/alkah3st/wp-extend) - WordPressをCMSとして簡単に使えるようにする
+-   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  開発者用のお助けモノ
 
-##### Widgets
+##### ウィジェット
 
--   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Maintainable boilerplate for building widgets
--   [Widget Helper Class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - A class to ease creating Widgets
+-   [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - ウィジェット作成用のメンテなブルなひな形
+-   [Widget Helper Class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class) - 簡単にウィジェットを作成するためのクラス
 
-##### Updaters
+##### アップデーター
 
--   [GitHub Plugin Update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - WordPress plugin updates via GitHub
--   [Update Class](https://github.com/thomasgriffin/TGM-Updater) - Private and commercial plugin update class
--   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - Sync WordPress Plugins between Github and WordPress Plugin repository.
--   [External Update API](https://github.com/cftp/external-update-api) - Add support for updating themes and plugins via external sources instead of the WordPress.org repos
+-   [GitHub Plugin Update](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater) - GitHub経由でWordPressのプラグインをアップデート
+-   [Update Class](https://github.com/thomasgriffin/TGM-Updater) - プライベートと商用プラグインのアップデートクラス
+-   [WP-Plugin-In-Github](https://github.com/sudar/wp-plugin-in-github) - GitHubとWordPressプラグインリポジトリの間でWordPressのプラグインを同期
+-   [External Update API](https://github.com/cftp/external-update-api) - WordPressの公式リポジトリの代わりに外部のソース経由でテーマやプラグインをアップデートするためのサポートを追加
 
-##### Other
+##### その他
 
--   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - Integrating the new media manager work-flow into your plugins/themes
--   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - A WordPress transients interface
--   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - A a general logging system
--   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - Session manager for WordPress
--   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - Use CoffeeScript in WordPress
--   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - Resize images on the fly (like WPThumb/TimThumb but using PHP only)
--   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  New way to handle rewrite rules
-  
+-   [Media Manager Class](https://github.com/thomasgriffin/New-Media-Image-Uploader) - 自分のテーマやプラグインに新しいメディアマネージャーのワークフローを統合
+-   [WordPress Transients Interface](https://github.com/markjaquith/WP-TLC-Transients) - WordPressのトランシエントのインターフェース
+-   [Logging Class](https://github.com/pippinsplugins/WP-Logging) - 汎用ロギングシステム
+-   [WP Session Manager](https://github.com/ericmann/wp-session-manager) - WordPress用のセッションマネージャー
+-   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - CoffeeScriptをWordPressで利用
+-   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - オンザフライで画像をリサイズ (WPThumb/TimThumbの似ているがPHPのみを使用)
+-   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  リライトルールを扱う新しい方法
 
 * * * * *
 
-Meta Fields 
+メタフィールド
 ---------------
 
-##### Meta data stuff (custom fields, meta fields, meta boxes, etc)
+##### メタデータ関連 (カスタムフィールド、メタフィールド、メタボックスなど)
 
--   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - Class for creating custom meta boxes
--   [Meta Box Plugin](https://github.com/rilwis/meta-box) - Easily create custom meta boxes
--   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios 
--   [WpAlchemy](https://github.com/farinspace/wpalchemy) - Thin meta framework
--   [SuperCPT](https://github.com/mboynes/super-cpt) CPT and meta box wrapper with icons
--   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPress taxonomies custom fields
--   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - Add custom fields to your object types
--   [Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes) - Humanmade's metaboxes with custom fields that will blow your mind
--   [Field Manager](http://fieldmanager.org/) - Fieldmanager is a toolkit for developers to create complex administration screen
--   [Sunrise](https://bitbucket.org/newclarity/sunrise-1) - New Clarity's Admin Post Forms & Fields
--   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - Tools for managing custom fields
--   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- Simple Fields
+-   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - カスタムなメタボックスを作るためのクラス
+-   [Meta Box Plugin](https://github.com/rilwis/meta-box) - カスタムなメタボックスを簡単作成
+-   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios
+-   [WpAlchemy](https://github.com/farinspace/wpalchemy) - 軽いメタフレームワーク
+-   [SuperCPT](https://github.com/mboynes/super-cpt) - アイコンを伴ったCPTとメタボックスのラッパー
+-   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPressタクソノミーのカスタムフィールド
+-   [Automattic's Custom Metadata](https://github.com/Automattic/custom-metadata) - 自分のオブジェクトタイプにカスタムフィールドを追加する
+-   [Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes) - うっとりするようなカスタムフィールド付きのメタボックス
+-   [Field Manager](http://fieldmanager.org/) - 開発者が複雑な管理画面を作るためのツールキット
+-   [Sunrise](https://bitbucket.org/newclarity/sunrise-1) - 新しい投稿フォームとフィールド
+-   [Developers Custom Fields](https://github.com/gyrus/WordPress-Developers-Custom-Fields) - カスタムフィールドを管理するためのツール
+-   [Simple Fields](https://github.com/bonny/WordPress-Simple-Fields)- シンプルなフィールド
 
- 
+
 * * * * *
 
-Theme Stuff
+テーマ関連
 ---------------
 
-##### Theme tools and boilerplate
+##### テーマ用のツールとひな形
 
--   [Wordless](https://github.com/welaika/wordless) - Haml, Compass and Coffeescript (Ruby)
--   [Forge](https://github.com/thethemefoundry/forge) - Sass, LESS, and CoffeeScript (Ruby)
+-   [Wordless](https://github.com/welaika/wordless) - Haml、Compass、Coffeescript (Ruby)
+-   [Forge](https://github.com/thethemefoundry/forge) - Sass、LESS、CoffeeScript (Ruby)
 -   [Compass WordPress](https://github.com/pengwynn/compass-wordpress) - Sass
--   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Grunt Scaffold (node)
--   [Prometheus](https://github.com/noeltock/prometheus) Front-end foundation (LESS, wpthumb)
--   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) File structure based on several themes and template hierarchy
--   [Theme-Check](http://wordpress.org/plugins/theme-check/) - Test your theme and make sure it's up to spec 
--   [Timber](http://github.com/jarednova/timber) - Write your theme using Twig templates (similar to Mustache, Handlebars, etc.)
+-   [Grunt-WP-Theme](https://github.com/10up/grunt-wp-theme) - Gruntのスキャフォールド (node)
+-   [Prometheus](https://github.com/noeltock/prometheus) - フロントエンドの土台 (LESS、wpthumb)
+-   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) - いくつかのテーマやテンプレート階層をベースにしたファイル構造
+-   [Theme-Check](http://wordpress.org/plugins/theme-check/) - テーマをテストして仕様を満たしているか確認する
+-   [Timber](http://github.com/jarednova/timber) - Mustache、Handlebarsなどに似ているTwigテンプレートを利用してテーマを作成
 
-If you are looking for theme option frameworks, look above under "Framework stuff".
+テーマオプション用のフレームワークをお探しの場合は"フレームワーク関連"を参照してください。
 
 
 
