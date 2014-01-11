@@ -21,7 +21,8 @@ WordPress-Gearはコミュニティによって運営されています。お気
 
 ##### 圧縮フォーマット (.zip もしくは .tar.gz)
 
--   [最新安定版](http://wordpress.org/download/) - wordpress.org
+-   [最新安定日本語版](http://ja.wordpress.org/download/) - ja.wordpress.org
+-   [最新安定オリジナル英語版](http://wordpress.org/download/) - wordpress.org
 -   [ナイトリー(開発版)](http://wordpress.org/download/nightly/) - wordpress.org
 
 ##### バージョン管理 - これらのビルドは最新のコミットを含んでいます。
