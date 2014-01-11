@@ -41,6 +41,7 @@ WordPress-Gearはコミュニティによって運営されています。お気
 -   [WordPress Handbook](http://make.wordpress.org/core/handbook/automated-testing/) - 自動テストのガイド
 -   [WP Mock](https://github.com/10up/wp_mock) - Mockeryを使ったユニットテスト
 -   [Theme XML sample data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) - 公式のサンプルデータ
+-   [theme-test-data-ja](https://github.com/jawordpressorg/theme-test-data-ja) - 日本語のサンプルデータ
 -   [WP Test](http://wptest.io/) - 追加のテスト/サンプルデータ
 
 
