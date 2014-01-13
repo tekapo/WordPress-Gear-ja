@@ -1,9 +1,11 @@
 :wrench: WordPress-Gear :wrench:
 ==============
 
-A bunch of gear for WP developers
+A bunch of gear for WP developers in Japanese.
 
-The actual page:  http://wpgear.org/
+It is based on and translated from http://wpgear.org/.
+
+The actual page:  http://wpgear-ja.org/
 
 To contribute you need a GitHub account.
 The easy way: Click on `index.md` then click edit. This will automatically fork this project to your account, make your changes then submit a pull request.
