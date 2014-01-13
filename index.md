@@ -4,9 +4,9 @@ layout: default
 
 ### 方法
 
-WordPress-Gearはコミュニティによって運営されています。お気軽に飛び込んで、役に立つどんな情報でも[GitHub](https://github.com/wycks/WordPress-Gear)経由で追加/削除してください。
+WordPress-Gearはコミュニティによって運営されています。お気軽に飛び込んで、役に立つどんな情報でも[GitHub](https://github.com/tekapo/WordPress-Gear-ja)経由で追加/削除してください。
 
-参加協力するもっとも簡単な方法は、GitHubアカウントを取得し、[index.md](https://github.com/wycks/WordPress-Gear/blob/gh-pages/index.md)をクリックし、editをクリックします。これにより、このプロジェクトを自分のアカウントに自動的にフォークするので、そこで変更したり、プルリクエストを送信したりできるようになります。
+参加協力するもっとも簡単な方法は、GitHubアカウントを取得し、[index.md](https://github.com/tekapo/WordPress-Gear-ja/blob/gh-pages/index.md)をクリックし、editをクリックします。これにより、このプロジェクトを自分のアカウントに自動的にフォークするので、そこで変更したり、プルリクエストを送信したりできるようになります。
 
 ### 参加協力者の方へ
 
@@ -21,8 +21,12 @@ WordPress-Gearはコミュニティによって運営されています。お気
 
 ##### 圧縮フォーマット (.zip もしくは .tar.gz)
 
--   [最新安定日本語版](http://ja.wordpress.org/download/) - ja.wordpress.org
--   [最新安定オリジナル英語版](http://wordpress.org/download/) - wordpress.org
+-   [最新安定日本語版ダウンロードページ](http://ja.wordpress.org/download/) - ja.wordpress.org
+-   [最新安定日本語版zipファイル](http://ja.wordpress.org/latest-ja.zip) - latest-ja.zip
+-   [最新安定日本語版tar.gzファイル](http://ja.wordpress.org/latest-ja.tar.gz) - latest-ja.tar.gz
+-   [最新安定オリジナル英語版ダウンロードページ](http://wordpress.org/download/) - wordpress.org
+-   [最新安定オリジナル英語版zipファイル](http://wordpress.org/latest.zip) - latest.zip
+-   [最新安定オリジナル英語版tar.gzファイル](http://wordpress.org/latest.tar.gz) - latest.tar.gz
 -   [ナイトリー(開発版)](http://wordpress.org/download/nightly/) - wordpress.org
 
 ##### バージョン管理 - これらのビルドは最新のコミットを含んでいます。
