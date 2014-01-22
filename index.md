@@ -211,6 +211,7 @@ PHPコードひな形
 -   [WP CoffeeScript](http://wordpress.org/plugins/wp-coffeescript/) - CoffeeScriptをWordPressで利用
 -   [Dynamic Image Resize](https://github.com/franz-josef-kaiser/Dynamic-Image-Resize) - オンザフライで画像をリサイズ (WPThumb/TimThumbの似ているがPHPのみを使用)
 -   [CleverRules](https://github.com/Giuseppe-Mazzapica/CleverRules) -  リライトルールを扱う新しい方法
+-   [WordPress Glossary ja](https://docs.google.com/spreadsheet/ccc?key=0AltpoMCR_kwCdGdUZnEzZ3RtUTN4TERVc2hWNHZQNHc&usp=drive_web#gid=0) - 英日翻訳用のWordPress用語対訳集
 
 * * * * *
 
