@@ -249,6 +249,7 @@ PHPコードひな形
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) - いくつかのテーマやテンプレート階層をベースにしたファイル構造
 -   [Theme-Check](http://wordpress.org/plugins/theme-check/) - テーマをテストして仕様を満たしているか確認する
 -   [Timber](http://github.com/jarednova/timber) - Mustache、Handlebarsなどに似ているTwigテンプレートを利用してテーマを作成
+-   [GenerateWP](http://generatewp.com/) - カスタム投稿タイプなどのコードを生成
 
 テーマオプション用のフレームワークをお探しの場合は"フレームワーク関連"を参照してください。
 
