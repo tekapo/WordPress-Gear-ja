@@ -253,5 +253,6 @@ PHPコードひな形
 
 テーマオプション用のフレームワークをお探しの場合は"フレームワーク関連"を参照してください。
 
-このページのコンテンツのライセンスは[WTFPL](http://www.wtfpl.net/)です。
+このページは[WordPress Gear](http://wpgear.org/)からフォークして、日本語のリソース等を追加したものです。
 
+ライセンス: http://creativecommons.org/licenses/by/3.0/

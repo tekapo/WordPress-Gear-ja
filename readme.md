@@ -19,3 +19,5 @@ Or if you want, clone it locally.
     $ git checkout -b gh-pages remotes/origin/gh-pages
     # Edit index.md
     $ git push
+
+The license is: http://creativecommons.org/licenses/by/3.0/
