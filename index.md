@@ -181,14 +181,16 @@ PHPコードひな形
 -   [WordPress Settings API](https://github.com/tareq1988/wordpress-settings-api-class) - もう一つのWordPress設定APIの抽象クラス
 -   [WP MVC](https://github.com/tombenner/wp-mvc) - プラグイン作成のためのMVCフレームワーク
 -   [DX-Plugin-Base](https://github.com/mpeshev/DX-Plugin-Base) - WordPressシステムのためのベースプラグイン
--   [NHP Theme Options](https://github.com/leemason/NHP-Theme-Options-Framework) - テーマオプションのフレームワーク
 -   [Pods Framework](http://podsframework.org/) -  カスタムコンテントとフィールド用の包括的なフレームワーク
+-   [Redux Framework](https://github.com/ReduxFramework/ReduxFramework) - テーマオプションのフレームワーク
 -   [Sanity Framework](https://github.com/Emerson/Sanity-Wordpress-Plugin-Framework) - OOPプラグインフレームワーク
 -   [Option Tree](https://github.com/valendesigns/option-tree) - UIビルダー、テーマオプション、メタボックス
 -   [Vafpress](http://vafpress.com/vafpress-framework/) - 管理(画面?)ツールボックスのフレームワーク
 -   [Piklist](http://piklist.com/) - たくさんのオプションのある強力なフレームワーク
 -   [WPX](https://bitbucket.org/alkah3st/wp-extend) - WordPressをCMSとして簡単に使えるようにする
--   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) -  開発者用のお助けモノ
+-   [Wordpress Cuztom Helper](https://github.com/Gizburdt/Wordpress-Cuztom-Helper) - 開発者用のお助けモノ
+-   [WordPress Plugin Framework](https://github.com/theantichris/WordPress-Plugin-Framework) - WordPressのプラグインを素早く作るためのOOPフレームワーク
+-   [WPDK - Wordpress Developer Kit](http://wpdk.io) - プラグインを作るための150以上の新しいクラスと3500位上のメッソドを持ったOOP MVCフレームワーク
 
 ##### ウィジェット
 
@@ -223,6 +225,7 @@ PHPコードひな形
 -   [My-Meta-Box](https://github.com/bainternet/My-Meta-Box) - カスタムなメタボックスを作るためのクラス
 -   [Meta Box Plugin](https://github.com/rilwis/meta-box) - カスタムなメタボックスを簡単作成
 -   [Custom Metaboxes and Fields](https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress) - WebDevStudios
+-   [Humanmade Custom Meta Boxes](https://github.com/humanmade/Custom-Meta-Boxes) - WebDevStudiosからフォークしたメタボックスフレームワーク
 -   [WpAlchemy](https://github.com/farinspace/wpalchemy) - 軽いメタフレームワーク
 -   [SuperCPT](https://github.com/mboynes/super-cpt) - アイコンを伴ったCPTとメタボックスのラッパー
 -   [WordPress Taxonomies Fields](https://github.com/bainternet/Tax-Meta-Class) - WordPressタクソノミーのカスタムフィールド
@@ -241,6 +244,7 @@ PHPコードひな形
 
 ##### テーマ用のツールとひな形
 
+-   [Theme Customizer Controls](https://github.com/paulund/Wordpress-Theme-Customizer-Custom-Controls) - テーマカスタマイザーページのカスタムコントロール
 -   [Wordless](https://github.com/welaika/wordless) - Haml、Compass、Coffeescript (Ruby)
 -   [Forge](https://github.com/thethemefoundry/forge) - Sass、LESS、CoffeeScript (Ruby)
 -   [Compass WordPress](https://github.com/pengwynn/compass-wordpress) - Sass
@@ -248,6 +252,7 @@ PHPコードひな形
 -   [Prometheus](https://github.com/noeltock/prometheus) - フロントエンドの土台 (LESS、wpthumb)
 -   [WordPress Template Base](https://github.com/wycks/WordPress-Template-Base) - いくつかのテーマやテンプレート階層をベースにしたファイル構造
 -   [Theme-Check](http://wordpress.org/plugins/theme-check/) - テーマをテストして仕様を満たしているか確認する
+-   [Monster Widget](http://wordpress.org/plugins/monster-widget/) - テスト用にコアのすべてのウィジェットを簡単にサイドバーに追加する方法を提供する
 -   [Timber](http://github.com/jarednova/timber) - Mustache、Handlebarsなどに似ているTwigテンプレートを利用してテーマを作成
 -   [GenerateWP](http://generatewp.com/) - カスタム投稿タイプなどのコードを生成
 
